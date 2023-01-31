@@ -73,6 +73,7 @@ body {
 
 .service-blocks {
     font-size: 0;
+    margin-bottom: 30px;
 }
 
 .block {
@@ -132,6 +133,49 @@ body {
 .block-btn-3 {
     background-color: #f0dc6a;
 }
+
+.about-container {
+    padding: 50px 25% 80px 30px;
+    background-image: url(../img/pic.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    border-top: 2px solid #eee;
+}
+
+
+.about-title {
+    font-size: 45px;
+    color: #000000;
+    font-weight: normal;
+}
+
+.about-text {
+    line-height: 24px;
+}
+
+.about-title-list {
+    font-size: 16px;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.about-list-item {
+    padding: 10px;
+}
+
+.footer {
+    background-color: #eee;
+    padding: 10px 0;
+    text-align: right;
+}
+
+.footer-title {
+    font-size: 36px;
+    margin: 15px 0;
+}
+
+
+
 
 
 
