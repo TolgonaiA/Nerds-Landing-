@@ -8,5 +8,5 @@ The design is in free access in the internet
 
 Used only HTML+CSS
 
-Non-responsive
+Responsive
 
